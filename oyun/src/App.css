@@ -1,0 +1,17 @@
+.Baslik{
+    text-align: center;
+
+}
+.oyunalani{
+    margin-top: 10%;
+}
+.bitis{
+    padding-left: 300px;
+}
+.arabalar{
+    position: relative;
+    
+}
+.kazanma{
+    display: none;
+}
